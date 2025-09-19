@@ -1,4 +1,4 @@
-# Flood Vulnerability Analysis, Thailand (2000–2023)
+# Flood Vulnerability Analysis, Thailand
 **Group Name:** น้ำจะท่วมแล้วใครจะรอด  
 **Group Members:** ฐิติกมล การเนตร, มาวิน บูชา, ณิชาลักษณ์ สวัสดิสรณ์  
 **Topic:** วิเคราะห์หาจังหวัดเฝ้าระวังน้ำท่วมในประเทศไทยจากข้อมูลสถิติย้อนหลังในประเทศ  
