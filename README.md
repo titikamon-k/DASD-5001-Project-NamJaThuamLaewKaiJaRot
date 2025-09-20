@@ -106,7 +106,8 @@ Top 5 Provinces with Highest Rainfall in West: Prachuap Khiri Khan, Kanchanaburi
 <img width="1412" height="131" alt="image" src="https://github.com/user-attachments/assets/0d92e970-97e0-4ae8-a008-a267486baa75" />
 
 จากนั้น เราทำ spider chart เพื่อดูว่า แต่ละภาคนั้นมีปัจจัยใดที่เป็นปัจจัยหลักในการทำให้เสี่ยงน้ำท่วม
-<img width="1223" height="698" alt="image" src="https://github.com/user-attachments/assets/bb796795-c10f-4869-b22f-11ea84ed6d49" />
+<img width="2006" height="1146" alt="image" src="https://github.com/user-attachments/assets/4b5ab980-6a5d-4fb7-95f9-1b07db9d3eae" />
+
 
 ซึ่งจะเห็นว่าจากกราฟนั้น
 ภาคเหนือ/อีสาน → ค่าฝน (Rainfall) สูงสุด → เสี่ยงจากปริมาณฝนโดยตรง
