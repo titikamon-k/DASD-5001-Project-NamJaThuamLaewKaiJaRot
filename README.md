@@ -98,28 +98,33 @@ ________________________________________________________________________________
 - **Recurrent Flood Area (10Y)** (30%)  
 - **Flood Susceptible Sites** (20%)  
 
-**Central**
+### **Central Region**
 <img width="1412" height="322" alt="image" src="https://github.com/user-attachments/assets/aea28b51-44cc-4116-b733-15be4827885e" />
+<sub>Table 2: Flood Risk Factors in the Central Region and Composite score by Provinces</sub><br><br>
 
-
-**East**
+## **East**
 <img width="1865" height="175" alt="image" src="https://github.com/user-attachments/assets/92005764-5a84-4dd4-a249-7b158b9c5f5d" />
+<sub>Table 3: Flood Risk Factors in the East Region and Composite score by Provinces</sub><br><br>
 
 **Northeast**
 <img width="1412" height="452" alt="image" src="https://github.com/user-attachments/assets/5eb641c2-38b8-4092-9222-a4ac9f3faced" />
+<sub>Table 4: Flood Risk Factors in the Northeast Region and Composite score by Provinces</sub><br><br>
 
 **North**
 <img width="1408" height="389" alt="image" src="https://github.com/user-attachments/assets/39632e29-d2e1-4e39-afe2-2a00cb85ddf4" />
+<sub>Table 5: Flood Risk Factors in the North Region and Composite score by Provinces</sub><br><br>
 
 **South**
 <img width="1408" height="319" alt="image" src="https://github.com/user-attachments/assets/ab8ee1d4-31b4-400b-a6a4-50f74ee2ef67" />
+<sub>Table 6: Flood Risk Factors in the South Region and Composite score by Provinces</sub><br><br>
 
 **West**
 <img width="1412" height="131" alt="image" src="https://github.com/user-attachments/assets/0d92e970-97e0-4ae8-a008-a267486baa75" />
+<sub>Table 7: Flood Risk Factors in the West Region and Composite score by Provinces</sub><br><br>
 
 จากนั้น เราทำ spider chart เพื่อดูว่า แต่ละภาคนั้นมีปัจจัยใดที่เป็นปัจจัยหลักในการทำให้เสี่ยงน้ำท่วม
 <img width="2006" height="1146" alt="image" src="https://github.com/user-attachments/assets/4b5ab980-6a5d-4fb7-95f9-1b07db9d3eae" />
-
+<sub>Figure 8: Flood Risk Factors by Region(Spider chart)</sub><br><br>
 
 ซึ่งจะเห็นว่าจากกราฟนั้น
 ภาคเหนือ/อีสาน → ค่าฝน (Rainfall) สูงสุด → เสี่ยงจากปริมาณฝนโดยตรง
@@ -127,6 +132,13 @@ ________________________________________________________________________________
 กรุงเทพฯ และปริมณฑล (Central) → Susceptible sites สูง → เสี่ยงจากความหนาแน่นของพื้นที่อ่อนไหว
 ภาคใต้ → ฝนยาวนาน แต่ recurrent flood และ susceptible อาจไม่สูงเท่า
 
+จาก Figure 8
+**ภาคเหนือและภาคตะวันออกเฉียงเหนือ** มีค่าปริมาณฝน (Rainfall) สูงกว่าเมื่อเทียบกับภูมิภาคอื่น จึงสะท้อนถึงความเสี่ยงจากฝนตกหนักโดยตรง
+**ภาคกลาง** มีค่าพื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood) สูงกว่าภูมิภาคอื่น ซึ่งบ่งชี้ว่าปัญหาน้ำท่วมมักเกิดซ้ำในพื้นที่เดิม
+**ภาคตะวันออกและภาคตะวันตก** มีค่าของทั้งสามปัจจัยอยู่ในระดับปานกลาง แสดงถึงความเสี่ยงในระดับที่ไม่รุนแรงเท่าภาคเหนือหรือภาคกลาง
+**ภาคใต้** แม้จะมีฤดูฝนยาวนาน แต่จาก Figure 8 ชี้ให้เห็นว่าค่า Recurrent Flood และ Susceptible Sites ไม่ได้สูงนักเมื่อเทียบกับภูมิภาคอื่น ทำให้ลักษณะความเสี่ยงต่างออกไป โดยมักเกิดเป็นน้ำท่วมเฉพาะพื้นที่และตามฤดูกาล
+
+กรุงเทพมหานครและปริมณฑล (Central Metropolitan) มีระดับพื้นที่อ่อนไหวสูง (Susceptible Sites) จากความหนาแน่นของประชากรและสิ่งปลูกสร้าง ทำให้เสี่ยงต่อผลกระทบด้านสังคมและเศรษฐกิจมากที่สุด
 
 ---
 
