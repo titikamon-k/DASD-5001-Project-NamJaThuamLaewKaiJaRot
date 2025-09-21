@@ -7,20 +7,19 @@
 3. 6720422019 ณิชาลักษณ์ สวัสดิสรณ์
 ________________________________________________________________________________________________
 ## Source of Data
-- **ปริมาณน้ำฝน (2000–2025):**  
-  ข้อมูลปริมาณน้ำฝนเฉลี่ยรายเดือน (หน่วย: mm) จาก **CHIRPS**  
-  (*Climate Hazards Group InfraRed Precipitation with Station data*)  
-- **Flood Susceptible:**  
-  ข้อมูลจำนวนหมู่บ้านที่อยู่ในแนวร่องน้ำ เสี่ยงภัยน้ำท่วม จาก [www.mitrearth.org](http://www.mitrearth.org)  
-- **Recurrent Flood (10 ปี):**  
-  ข้อมูลตำบลและพื้นที่ (ไร่) ที่เกิดน้ำท่วมซ้ำซาก 8–10 ครั้ง ระหว่างปี 2015–2025  [กรมพัฒนาที่ดิน](https://gdcatalog.go.th/dataset/gdpublish-lpd04)
-- **Province/Region Reference:**  
-  ข้อมูล PCODE จังหวัดและภาค ใช้เป็นรหัสอ้างอิงมาตรฐาน  [HDX-TH admin boundaries](https://data.humdata.org/dataset/cod-ab-tha)
+- **ปริมาณน้ำฝน (2000–2025):** ข้อมูลปริมาณน้ำฝนเฉลี่ยรายเดือน (หน่วย: mm) จาก **CHIRPS** (*Climate Hazards Group InfraRed Precipitation with Station data*)  
+- **Flood Susceptible:** ข้อมูลจำนวนหมู่บ้านที่อยู่ในแนวร่องน้ำ เสี่ยงภัยน้ำท่วม จาก [www.mitrearth.org](http://www.mitrearth.org)  
+- **Recurrent Flood (10 ปี):** ข้อมูลตำบลและพื้นที่ (ไร่) ที่เกิดน้ำท่วมซ้ำซาก 8–10 ครั้ง ระหว่างปี 2015–2025  [กรมพัฒนาที่ดิน](https://gdcatalog.go.th/dataset/gdpublish-lpd04)
+- **Province/Region Reference:** ข้อมูล PCODE จังหวัดและภาค ใช้เป็นรหัสอ้างอิงมาตรฐาน  [HDX-TH admin boundaries](https://data.humdata.org/dataset/cod-ab-tha)
 _________________________________________________________________________________________________
 ## Research Questions
-1. ฤดูมรสุมของแต่ละภาคในประเทศไทยอยู่ในช่วงเดือนไหนถึงเดือนไหน?  
-2. จังหวัดใดที่ควรถูกจัดให้อยู่ใน **watchlist** สำหรับเฝ้าระวังน้ำท่วม?  
-3. เมื่อนำปัจจัยอื่น เช่นข้อมูล **น้ำท่วมซ้ำซาก** และ **จำนวนพื้นที่เสี่ยงน้ำหลาก** มาวิเคราะห์ร่วม, จังหวัดใดที่มี **ความเปราะบางสูงสุด** และควรได้รับการจัดการล่วงหน้า?
+1. ฤดูมรสุมของแต่ละภูมิภาคในประเทศไทยมีระยะเวลาการเริ่มต้นและสิ้นสุดอยู่ในช่วงเดือนใดบ้าง
+2. จังหวัดใดควรถูกจัดให้อยู่ใน **บัญชีเฝ้าระวัง (watchlist)** เพื่อการติดตามและเฝ้าระวังสถานการณ์น้ำท่วมอย่างใกล้ชิด
+3. เมื่อนำปัจจัยอื่น ๆ เช่น ข้อมูล **ปริมาณฝนเฉลี่ยรายเดือน, พื้นที่น้ำท่วมซ้ำซาก** และ **จำนวนพื้นที่เสี่ยงน้ำหลาก** เข้ามาร่วมการวิเคราะห์ จังหวัดใดมีระดับ **ความเปราะบางสูงสุด** และควรได้รับการจัดการเชิงป้องกันล่วงหน้า
+_________________________________________________________________________________________________
+## Data cleaning
+
+ได้ทำการประมวลผลข้อมูลปริมาณน้ำฝนจากไฟล์ CSV โดยตัดทิ้งข้อมูลก่อนปี พ.ศ. 2543 (ค.ศ. 2000) เนื่องจากมีค่าที่ขาดหายจำนวนมาก และเลือกใช้เฉพาะข้อมูลตั้งแต่ปี 2000 เป็นต้นไป ทั้งยังได้ตรวจสอบความต่อเนื่องย้อนหลัง 5, 10 และ 20 ปี เพื่อยืนยันความน่าเชื่อถือของข้อมูลและความคงที่ของรูปแบบฤดูมรสุม
 _________________________________________________________________________________________________
 ## Data Journey
 
@@ -58,33 +57,37 @@ ________________________________________________________________________________
 #### **East Region**
 <img width="1225" height="638" alt="image" src="https://github.com/user-attachments/assets/110d99e5-50f0-4021-b2fa-7684b18e4687" />
 <sub>Figure 3: Average Monthly Rainfall in the East Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออก**: ตราด, จันทบุรี, ปราจีนบุรี, ระยอง และฉะเชิงเทรา
 
 #### **Northeast Region**
 <img width="1254" height="1048" alt="image" src="https://github.com/user-attachments/assets/43f351a3-3d28-453b-9325-7637265ca7cd" />
 <sub>Figure 4: Average Monthly Rainfall in the Northeast Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออกเฉียงเหนือ**: บึงกาฬ, นครพนม, หนองคาย, อุบลราชธานี และสกลนคร
 
 #### **North Region**
 <img width="1243" height="938" alt="image" src="https://github.com/user-attachments/assets/9463c92b-7ffa-4ca4-bc80-0c993393bb8c" />
 <sub>Figure 5: Average Monthly Rainfall in the North Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคเหนือ**: เชียงราย, น่าน, พะเยา, อุทัยธานี และตาก
 
 #### **South Region**
 <img width="1240" height="804" alt="image" src="https://github.com/user-attachments/assets/5fc29272-4e6b-4bf3-aa49-1a81c32f8edc" />
 <sub>Figure 6: Average Monthly Rainfall in the South Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคใต้**: ระนอง, พังงา, นราธิวาส, ยะลา และภูเก็ต
 
 #### **West Region**
 <img width="1235" height="755" alt="image" src="https://github.com/user-attachments/assets/3ec1e0e5-f61a-4ed6-91ad-619600fb7f10" />
 <sub>Figure 7: Average Monthly Rainfall in the West Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันตก**: ประจวบคีรีขันธ์, กาญจนบุรี, ราชบุรี, เพชรบุรี และสุพรรณบุรี
 
 **Insight:**  
 - **จังหวัดต้นน้ำ** เช่น **เชียงใหม่, เชียงราย และอุบลราชธานี**  
   มักเผชิญกับฝนตกหนักต่อเนื่อง ทำให้มีความเสี่ยงสูงที่จะเป็น **จุดเริ่มต้นของน้ำหลาก (upstream floods)**  
-  ซึ่งสามารถกระทบพื้นที่ลุ่มน้ำตอนล่างได้โดยตรง  
-
+  ซึ่งสามารถกระทบพื้นที่ลุ่มน้ำตอนล่างได้โดยตรง
 - **จังหวัดลุ่มเจ้าพระยา** เช่น **นครสวรรค์ และพระนครศรีอยุธยา**  
   แม้จะไม่ได้มีปริมาณฝนสูงสุด แต่ยังคงมีความเสี่ยงจาก **น้ำสะสมที่ไหลมาจากตอนบน (downstream impact)**  
   ส่งผลให้เกิดน้ำท่วมใหญ่ได้หากมีการระบายน้ำไม่เพียงพอ
