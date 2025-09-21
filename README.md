@@ -58,28 +58,27 @@ ________________________________________________________________________________
 ### **East Region**
 <img width="1225" height="638" alt="image" src="https://github.com/user-attachments/assets/110d99e5-50f0-4021-b2fa-7684b18e4687" />
 <sub>Figure 3: Average Monthly Rainfall in the East Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
-
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออก**: ตราด, จันทบุรี, ปราจีนบุรี, ระยอง และฉะเชิงเทรา  
+**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออก**: ตราด, จันทบุรี, ปราจีนบุรี, ระยอง และฉะเชิงเทรา
 
 ### **Northeast Region**
 <img width="1254" height="1048" alt="image" src="https://github.com/user-attachments/assets/43f351a3-3d28-453b-9325-7637265ca7cd" />
 <sub>Figure 4: Average Monthly Rainfall in the Northeast Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
-Top 5 Provinces with Highest Rainfall in Northeast: Bueng Kan, Nakhon Phanom, Nong Khai, Ubon Ratchathani, Sakon Nakhon
+**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออกเฉียงเหนือ**: บึงกาฬ, นครพนม, หนองคาย, อุบลราชธานี และสกลนคร
 
 ### **North Region**
 <img width="1243" height="938" alt="image" src="https://github.com/user-attachments/assets/9463c92b-7ffa-4ca4-bc80-0c993393bb8c" />
 <sub>Figure 5: Average Monthly Rainfall in the North Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
-Top 5 Provinces with Highest Rainfall in North: Chiang Rai, Nan, Phayao, Uthai Thani, Tak
+**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคเหนือ**: เชียงราย, น่าน, พะเยา, อุทัยธานี และตาก
 
 ### **South Region**
 <img width="1240" height="804" alt="image" src="https://github.com/user-attachments/assets/5fc29272-4e6b-4bf3-aa49-1a81c32f8edc" />
 <sub>Figure 6: Average Monthly Rainfall in the South Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
-Top 5 Provinces with Highest Rainfall in South: Ranong, Phangnga, Narathiwat, Yala, Phuket
+**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคใต้**: ระนอง, พังงา, นราธิวาส, ยะลา และภูเก็ต
 
 ### **West Region**
 <img width="1235" height="755" alt="image" src="https://github.com/user-attachments/assets/3ec1e0e5-f61a-4ed6-91ad-619600fb7f10" />
 <sub>Figure 7: Average Monthly Rainfall in the West Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
-Top 5 Provinces with Highest Rainfall in West: Prachuap Khiri Khan, Kanchanaburi, Ratchaburi, Phetchaburi, Suphan Buri
+**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันตก**: ประจวบคีรีขันธ์, กาญจนบุรี, ราชบุรี, เพชรบุรี และสุพรรณบุรี
 
 **Insight:**  
 - **จังหวัดต้นน้ำ** เช่น **เชียงใหม่, เชียงราย และอุบลราชธานี**  
