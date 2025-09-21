@@ -54,27 +54,33 @@ ________________________________________________________________________________
  
 **Central**
 Top 5 Provinces with Highest Rainfall in Central: Nakhon Nayok, Bangkok, Samut Prakan, Samut Sakhon, Nonthaburi
-<img width="1111" height="479" alt="image" src="https://github.com/user-attachments/assets/e0541d1d-8a22-44ce-9d0e-040d661bc2b3" />
+<img width="1258" height="748" alt="image" src="https://github.com/user-attachments/assets/fbd3ec57-0143-4af1-ac5a-e5487ac36e90" />
+
 
 **East**
 Top 5 Provinces with Highest Rainfall in East: Trat, Chanthaburi, Prachin Buri, Rayong, Chachoengsao
-<img width="1094" height="294" alt="image" src="https://github.com/user-attachments/assets/30a702e2-5fc6-4f42-8551-2496b273741d" />
+<img width="1225" height="638" alt="image" src="https://github.com/user-attachments/assets/110d99e5-50f0-4021-b2fa-7684b18e4687" />
+
 
 **Northeast**
 Top 5 Provinces with Highest Rainfall in Northeast: Bueng Kan, Nakhon Phanom, Nong Khai, Ubon Ratchathani, Sakon Nakhon 	
-<img width="1107" height="691" alt="image" src="https://github.com/user-attachments/assets/b2b6ab3d-2012-4d55-aae9-996b092d5c73" />
+<img width="1254" height="1048" alt="image" src="https://github.com/user-attachments/assets/43f351a3-3d28-453b-9325-7637265ca7cd" />
+
 
 **North**
 Top 5 Provinces with Highest Rainfall in North: Chiang Rai, Nan, Phayao, Uthai Thani, Tak
-<img width="1108" height="586" alt="image" src="https://github.com/user-attachments/assets/d4a66350-aee9-4b9d-b442-74b136dc3ada" />
+<img width="1243" height="938" alt="image" src="https://github.com/user-attachments/assets/9463c92b-7ffa-4ca4-bc80-0c993393bb8c" />
+
 
 **South**
 Top 5 Provinces with Highest Rainfall in South: Ranong, Phangnga, Narathiwat, Yala, Phuket
-<img width="1108" height="486" alt="image" src="https://github.com/user-attachments/assets/7c287946-892d-4863-a9f5-b9ffe93959f5" />
+<img width="1240" height="804" alt="image" src="https://github.com/user-attachments/assets/5fc29272-4e6b-4bf3-aa49-1a81c32f8edc" />
+
 
 **West**
 Top 5 Provinces with Highest Rainfall in West: Prachuap Khiri Khan, Kanchanaburi, Ratchaburi, Phetchaburi, Suphan Buri
-<img width="1098" height="291" alt="image" src="https://github.com/user-attachments/assets/d5b79668-e1f1-4398-a9f2-53d867fe20c5" />
+<img width="1235" height="755" alt="image" src="https://github.com/user-attachments/assets/3ec1e0e5-f61a-4ed6-91ad-619600fb7f10" />
+
 
 
 ---
@@ -120,7 +126,8 @@ Top 5 Provinces with Highest Rainfall in West: Prachuap Khiri Khan, Kanchanaburi
 
 ### Step 4: Composite Vulnerability
 - จัดอันดับ Top 10 จังหวัดเสี่ยงน้ำท่วมจากการคำนวน composite score 3ปัจจัยหลักในแต่ละภาค
-<img width="1442" height="1038" alt="image" src="https://github.com/user-attachments/assets/48056eec-e1e8-4161-b333-5eb961c6a780" />
+<img width="2052" height="1666" alt="image" src="https://github.com/user-attachments/assets/9bbb2bd4-dc78-4779-89dc-9791b40609ae" />
+
 
 
 
