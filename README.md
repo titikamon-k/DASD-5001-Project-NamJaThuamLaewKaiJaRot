@@ -25,14 +25,16 @@ ________________________________________________________________________________
 ### Step 1: Rainfall Analysis
 เราใช้ข้อมูลปริมาณน้ำฝนรายจังหวัดตั้งแต่ปี 2000–2023 มาคำนวณค่าเฉลี่ยรายเดือน (rfh) และจัดกลุ่มตามภาค เพื่อหาค่า **Peak Rainfall** ของแต่ละภาค 
 จากนั้นใช้เกณฑ์ ≥60% ของค่าฝนสูงสุดเพื่อกำหนด *Watchlist Window* หรือช่วงเดือนที่ควรเฝ้าระวังน้ำท่วม เหตุผลที่เลือก 60% เพราะฤดูมรสุมไม่ได้จำกัดอยู่เพียงเดือนเดียวแต่เป็นช่วงต่อเนื่องหลายเดือน
-<img width="1093" height="589" alt="image" src="https://github.com/user-attachments/assets/c41b8dcb-9383-4da3-838c-3c20813499d2" />
+<img width="1472" height="671" alt="image" src="https://github.com/user-attachments/assets/c6978920-cf58-4e43-b288-672e8f106b55" />
+
 <sub>Figure1: Average Monthly Rainfall by Region(Heatmap)</sub><br><br>
 จาก **Figure 1** สามารถสรุปได้ว่า การกระจายของปริมาณฝนเฉลี่ยรายเดือนสะท้อนถึงช่วงเวลาการเกิดฤดูมรสุมที่แตกต่างกันในแต่ละภูมิภาค ซึ่งมีผลโดยตรงต่อความเสี่ยงด้านอุทกภัย
  - **ภาคเหนือและภาคตะวันออกเฉียงเหนือ** ฤดูมรสุมเริ่มต้นเร็ว โดยมีฝนตกชุกตั้งแต่เดือนมิถุนายนถึงกันยายน ทำให้พื้นที่เหล่านี้ควรได้รับการติดตามสถานการณ์น้ำตั้งแต่ต้นฤดูฝน
  - **ภาคกลางและภาคตะวันตก** มีความเสี่ยงสูงสุดในช่วงเดือนสิงหาคมถึงตุลาคม เนื่องจากเป็นช่วงที่มีฝนตกหนาแน่นและต่อเนื่องมากที่สุด
  - **ภาคใต้** มีฤดูมรสุมยาวนานกว่าภูมิภาคอื่น โดยมีฝนตกต่อเนื่องตั้งแต่ตุลาคมถึงธันวาคม ซึ่งเพิ่มความเสี่ยงต่อการเกิดน้ำท่วมในช่วงปลายปี
 
-<img width="1269" height="245" alt="image" src="https://github.com/user-attachments/assets/22894240-358a-47a1-baaf-fdc95356d793" />
+<img width="1663" height="295" alt="image" src="https://github.com/user-attachments/assets/0569452b-e5e2-4a52-906b-21a446a2b8b4" />
+
 <sub>Table 1: Average Monthly Rainfall by Region</sub><br><br>
 
 **Insight:**
@@ -48,37 +50,37 @@ ________________________________________________________________________________
 การวิเคราะห์นี้ช่วยให้เห็นภาพความแตกต่างของ **ความเสี่ยงด้านฝนและอุทกภัย** ในแต่ละพื้นที่ได้อย่างชัดเจนซึ่งเป็นข้อมูลสำคัญสำหรับการวางแผนและเฝ้าระวังน้ำท่วมในเชิงพื้นที่
 
 #### **Central Region**
-<img width="1258" height="748" alt="image" src="https://github.com/user-attachments/assets/fbd3ec57-0143-4af1-ac5a-e5487ac36e90" />
+<img width="1492" height="841" alt="image" src="https://github.com/user-attachments/assets/38e296c3-df1a-4ada-b8c7-9e5f87a9e367" />
 <sub>Figure 2: Average Monthly Rainfall in the Central Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคกลาง**: นครนายก, กรุงเทพมหานคร, สมุทรปราการ, สมุทรสาคร และนนทบุรี  
 
 #### **East Region**
-<img width="1225" height="638" alt="image" src="https://github.com/user-attachments/assets/110d99e5-50f0-4021-b2fa-7684b18e4687" />
+<img width="1513" height="667" alt="image" src="https://github.com/user-attachments/assets/6e9b5a40-3bef-4f4f-aceb-bb4f349494e5" />
 <sub>Figure 3: Average Monthly Rainfall in the East Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออก**: ตราด, จันทบุรี, ปราจีนบุรี, ระยอง และฉะเชิงเทรา
 
 #### **Northeast Region**
-<img width="1254" height="1048" alt="image" src="https://github.com/user-attachments/assets/43f351a3-3d28-453b-9325-7637265ca7cd" />
+<img width="1503" height="1131" alt="image" src="https://github.com/user-attachments/assets/6eee5315-1346-44f7-93a0-a54b3f8f53ee" />
 <sub>Figure 4: Average Monthly Rainfall in the Northeast Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออกเฉียงเหนือ**: บึงกาฬ, นครพนม, หนองคาย, อุบลราชธานี และสกลนคร
 
 #### **North Region**
-<img width="1243" height="938" alt="image" src="https://github.com/user-attachments/assets/9463c92b-7ffa-4ca4-bc80-0c993393bb8c" />
+<img width="1513" height="1012" alt="image" src="https://github.com/user-attachments/assets/880d7aa0-9c39-4b37-b4bb-a179de8cce58" />
 <sub>Figure 5: Average Monthly Rainfall in the North Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคเหนือ**: เชียงราย, น่าน, พะเยา, อุทัยธานี และตาก
 
 #### **South Region**
-<img width="1240" height="804" alt="image" src="https://github.com/user-attachments/assets/5fc29272-4e6b-4bf3-aa49-1a81c32f8edc" />
+<img width="1512" height="881" alt="image" src="https://github.com/user-attachments/assets/b5ffe279-dd0f-4935-a9f8-f9d9d98799f4" />
 <sub>Figure 6: Average Monthly Rainfall in the South Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคใต้**: ระนอง, พังงา, นราธิวาส, ยะลา และภูเก็ต
 
 #### **West Region**
-<img width="1235" height="755" alt="image" src="https://github.com/user-attachments/assets/3ec1e0e5-f61a-4ed6-91ad-619600fb7f10" />
+<img width="1510" height="704" alt="image" src="https://github.com/user-attachments/assets/0bcca114-ed95-4732-85d3-75265057cd7c" />
 <sub>Figure 7: Average Monthly Rainfall in the West Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันตก**: ประจวบคีรีขันธ์, กาญจนบุรี, ราชบุรี, เพชรบุรี และสุพรรณบุรี
@@ -99,31 +101,32 @@ ________________________________________________________________________________
 - **Flood Susceptible Sites** (20%)  
 
 #### **Central Region**
-<img width="1412" height="322" alt="image" src="https://github.com/user-attachments/assets/aea28b51-44cc-4116-b733-15be4827885e" />
+<img width="3595" height="285" alt="image" src="https://github.com/user-attachments/assets/f7ebb2ed-992d-40ee-ba37-88d410edbd52" />
 <sub>Table 2: Flood Risk Factors in the Central Region and Composite score by Provinces</sub><br><br>
 
 #### **East Region**
-<img width="1865" height="175" alt="image" src="https://github.com/user-attachments/assets/92005764-5a84-4dd4-a249-7b158b9c5f5d" />
+<img width="3599" height="209" alt="image" src="https://github.com/user-attachments/assets/540e17e4-01ee-4621-96d9-c109e24b13ee" />
 <sub>Table 3: Flood Risk Factors in the East Region and Composite score by Provinces</sub><br><br>
 
 #### **Northeast Region**
-<img width="1412" height="452" alt="image" src="https://github.com/user-attachments/assets/5eb641c2-38b8-4092-9222-a4ac9f3faced" />
+<img width="3597" height="291" alt="image" src="https://github.com/user-attachments/assets/4788aeda-0788-47e6-84ea-a17aab688b1f" />
 <sub>Table 4: Flood Risk Factors in the Northeast Region and Composite score by Provinces</sub><br><br>
 
 #### **North Region**
-<img width="1408" height="389" alt="image" src="https://github.com/user-attachments/assets/39632e29-d2e1-4e39-afe2-2a00cb85ddf4" />
+<img width="3591" height="289" alt="image" src="https://github.com/user-attachments/assets/59170c01-2b23-48ef-b977-d5fa485e13b3" />
 <sub>Table 5: Flood Risk Factors in the North Region and Composite score by Provinces</sub><br><br>
 
 #### **South Region**
-<img width="1408" height="319" alt="image" src="https://github.com/user-attachments/assets/ab8ee1d4-31b4-400b-a6a4-50f74ee2ef67" />
+<img width="3595" height="288" alt="image" src="https://github.com/user-attachments/assets/679118a3-4868-4b18-a7b7-06bdc13ed755" />
 <sub>Table 6: Flood Risk Factors in the South Region and Composite score by Provinces</sub><br><br>
 
 #### **West Region**
-<img width="1412" height="131" alt="image" src="https://github.com/user-attachments/assets/0d92e970-97e0-4ae8-a008-a267486baa75" />
+<img width="3590" height="161" alt="image" src="https://github.com/user-attachments/assets/56441879-e8b2-41b7-8f5a-3131ed24c333" />
 <sub>Table 7: Flood Risk Factors in the West Region and Composite score by Provinces</sub><br><br>
 
 จากนั้น ได้มีการจัดทำ Spider Chart เพื่อวิเคราะห์ว่าในแต่ละภูมิภาคมีปัจจัยใดที่เป็นปัจจัยหลักที่ส่งผลต่อความเสี่ยงน้ำท่วม โดยการเปรียบเทียบค่า **ปริมาณฝนเฉลี่ย (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood)** และ **พื้นที่น้ำหลาก (susceptible sites))** ผลลัพธ์ที่ได้ช่วยให้เห็นภาพชัดเจนว่าแต่ละภูมิภาคมีลักษณะความเสี่ยงที่แตกต่างกัน
-<img width="2006" height="1146" alt="image" src="https://github.com/user-attachments/assets/4b5ab980-6a5d-4fb7-95f9-1b07db9d3eae" />
+<img width="2199" height="1805" alt="image" src="https://github.com/user-attachments/assets/646c7669-7f46-4639-8f84-b436a932256a" />
+
 <sub>Figure 8: Flood Risk Factors by Region(Spider chart)</sub><br><br>
 จาก Figure 8
  - **ภาคเหนือและภาคตะวันออกเฉียงเหนือ** มีค่าปริมาณฝน (Rainfall) สูงกว่าเมื่อเทียบกับภูมิภาคอื่น จึงสะท้อนถึงความเสี่ยงจากฝนตกหนักโดยตรง
@@ -135,8 +138,8 @@ ________________________________________________________________________________
 
 ### Step 4: Composite Vulnerability
 - จัดอันดับ Top 10 จังหวัดเสี่ยงน้ำท่วมที่คำนวณจากปัจจัยหลัก 3 ด้าน ได้แก่ ปริมาณฝน (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood) และพื้นที่น้ำหลาก (susceptible sites)
-<img width="2052" height="1666" alt="image" src="https://github.com/user-attachments/assets/9bbb2bd4-dc78-4779-89dc-9791b40609ae" />
-<sub>Figure 9: Top 10 Provinces at Risk of Flooding Based on the Composite Score of Three Key Factors in Each Region</sub><br><br>
+<img width="1894" height="1500" alt="image" src="https://github.com/user-attachments/assets/331532d4-2d49-4aad-b044-fa38313c31f9" />
+<sub>Figure 9: Top Provinces at Risk of Flooding Based on the Composite Score of Three Key Factors in Each Region</sub><br><br>
 
 จาก Figure 9 แสดงผลการวิเคราะห์จังหวัดที่มีความเสี่ยงน้ำท่วมสูงสุด 10 อันดับแรก โดยอ้างอิงจากค่า Composite Score ที่คำนวณจากปัจจัยหลัก 3 ด้าน ได้แก่ ปริมาณฝน (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood) และพื้นที่น้ำหลาก (susceptible sites) ผลการวิเคราะห์ชี้ให้เห็นว่า ภาคเหนือและภาคตะวันออกเฉียงเหนือมีความเสี่ยงสูงจากปริมาณฝนโดยตรง ขณะที่ภาคกลางมีความเสี่ยงจากการมีพื้นที่น้ำท่วมซ้ำซากขนาดใหญ่ โดยเฉพาะในจังหวัดพระนครศรีอยุธยา สุพรรณบุรี และอ่างทอง ส่วนกรุงเทพมหานครและปริมณฑล แม้ไม่ได้มีปริมาณฝนสูงสุด แต่กลับมีความเสี่ยงจากจำนวนพื้นที่น้ำหลาก (susceptible sites) ที่หนาแน่น ซึ่งสะท้อนถึงผลกระทบทางสังคมและเศรษฐกิจที่อาจเกิดขึ้นได้มากกว่าภูมิภาคอื่น
 
