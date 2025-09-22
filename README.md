@@ -11,6 +11,8 @@ ________________________________________________________________________________
 - **Flood Susceptible:** ข้อมูลจำนวนหมู่บ้านที่อยู่ในแนวร่องน้ำ เสี่ยงภัยน้ำท่วม จาก [www.mitrearth.org](http://www.mitrearth.org)  
 - **Recurrent Flood (10 ปี):** ข้อมูลตำบลและพื้นที่ (ไร่) ที่เกิดน้ำท่วมซ้ำซาก 8–10 ครั้ง ระหว่างปี 2015–2025  [กรมพัฒนาที่ดิน](https://gdcatalog.go.th/dataset/gdpublish-lpd04)
 - **Province/Region Reference:** ข้อมูล PCODE จังหวัดและภาค ใช้เป็นรหัสอ้างอิงมาตรฐาน  [HDX-TH admin boundaries](https://data.humdata.org/dataset/cod-ab-tha)
+
+เนื่องจากไฟล์ข้อมูลมีขนาดใหญ่ ไม่สามารถอัพโหลดลง Github ได้ แต่สามารถเข้าถึงข้อมูลทั้งหมดที่ใช้ได้จากGoogle Drive [Dataset](https://drive.google.com/drive/folders/1pfbPLdhxnF2q7uyY2k1vHbJRHGOW-TuV?usp=drive_link)
 _________________________________________________________________________________________________
 ## Research Questions
 1. ฤดูมรสุมของแต่ละภูมิภาคในประเทศไทยมีระยะเวลาการเริ่มต้นและสิ้นสุดอยู่ในช่วงเดือนใดบ้าง
