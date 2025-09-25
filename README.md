@@ -97,28 +97,34 @@ ________________________________________________________________________________
 - **Recurrent Flood Area (10Y)** (30%)  
 - **Flood Susceptible Sites** (20%)  
 
-#### **Central Region (ภาคกลาง)**
-<img width="3595" height="285" alt="image" src="https://github.com/user-attachments/assets/f7ebb2ed-992d-40ee-ba37-88d410edbd52" />
+#### **Central Region**
+<img width="1738" height="299" alt="image" src="https://github.com/user-attachments/assets/db022fbc-ffaf-4a9e-88ed-0b1f6a0293fe" />
+
 <sub>Table 2: Flood Risk Factors in the Central Region and Composite score by Provinces</sub><br><br>
 
-#### **East Region (ภาคตะวันออก)**
-<img width="3599" height="209" alt="image" src="https://github.com/user-attachments/assets/540e17e4-01ee-4621-96d9-c109e24b13ee" />
+#### **East Region**
+<img width="1737" height="162" alt="image" src="https://github.com/user-attachments/assets/54efa003-52cc-4a90-8d49-6aa3bf7e3442" />
+
 <sub>Table 3: Flood Risk Factors in the East Region and Composite score by Provinces</sub><br><br>
 
-#### **Northeast Region (ภาคตะวันออกเฉียงเหนือ)**
-<img width="3597" height="291" alt="image" src="https://github.com/user-attachments/assets/4788aeda-0788-47e6-84ea-a17aab688b1f" />
+#### **Northeast Region**
+<img width="1735" height="411" alt="image" src="https://github.com/user-attachments/assets/5bb416e5-e15c-4b48-81c2-10ce25ca675a" />
+
 <sub>Table 4: Flood Risk Factors in the Northeast Region and Composite score by Provinces</sub><br><br>
 
-#### **North Region (ภาคเหนือ)**
-<img width="3591" height="289" alt="image" src="https://github.com/user-attachments/assets/59170c01-2b23-48ef-b977-d5fa485e13b3" />
+#### **North Region**
+<img width="1739" height="354" alt="image" src="https://github.com/user-attachments/assets/b4597c6b-647a-42c8-aa1f-16678c0acd37" />
+
 <sub>Table 5: Flood Risk Factors in the North Region and Composite score by Provinces</sub><br><br>
 
-#### **South Region (ภาคใต้)**
-<img width="3595" height="288" alt="image" src="https://github.com/user-attachments/assets/679118a3-4868-4b18-a7b7-06bdc13ed755" />
+#### **South Region**
+<img width="1735" height="297" alt="image" src="https://github.com/user-attachments/assets/1626213f-df42-403d-a5c3-324906d578fc" />
+
 <sub>Table 6: Flood Risk Factors in the South Region and Composite score by Provinces</sub><br><br>
 
-#### **West Region (ภาคตะวันตก)**
-<img width="3590" height="161" alt="image" src="https://github.com/user-attachments/assets/56441879-e8b2-41b7-8f5a-3131ed24c333" />
+#### **West Region**
+<img width="1733" height="120" alt="image" src="https://github.com/user-attachments/assets/3eee6628-d93f-450a-b54a-aa6384bfca6d" />
+
 <sub>Table 7: Flood Risk Factors in the West Region and Composite score by Provinces</sub><br><br>
 
 จากนั้น ได้มีการจัดทำ Spider Chart เพื่อวิเคราะห์ว่าในแต่ละภูมิภาคมีปัจจัยใดที่เป็นปัจจัยหลักที่ส่งผลต่อความเสี่ยงน้ำท่วม โดยการเปรียบเทียบค่า **ปริมาณฝนเฉลี่ย (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood)** และ **พื้นที่น้ำหลาก (susceptible sites))** ผลลัพธ์ที่ได้ช่วยให้เห็นภาพชัดเจนว่าแต่ละภูมิภาคมีลักษณะความเสี่ยงที่แตกต่างกัน
