@@ -7,7 +7,7 @@
 3. 6720422019 ณิชาลักษณ์ สวัสดิสรณ์
 ________________________________________________________________________________________________
 ## Source of Data
-- **ปริมาณน้ำฝน (2000–2025):** ข้อมูลปริมาณน้ำฝนเฉลี่ยรายเดือน (หน่วย: mm) จาก **CHIRPS** (*Climate Hazards Group InfraRed Precipitation with Station data*)  
+- **ปริมาณน้ำฝน (2000–2025):** ข้อมูลปริมาณน้ำฝนเฉลี่ยรายเดือน (หน่วย: mm) จาก **CHIRPS** (*Climate Hazards Group InfraRed Precipitation with Station data*)  [ข้อมูลปริมาณน้ำฝน](https://data.humdata.org/dataset/tha-rainfall-subnational)
 - **Flood Susceptible site:** ข้อมูลจำนวนหมู่บ้านที่อยู่ในแนวร่องน้ำ เสี่ยงภัยน้ำท่วม จาก [www.mitrearth.org](http://www.mitrearth.org)  
 - **Recurrent Flood (10 ปี):** ข้อมูลตำบลและพื้นที่ (ไร่) ที่เกิดน้ำท่วมซ้ำซาก 8–10 ครั้ง ระหว่างปี 2015–2025  [กรมพัฒนาที่ดิน](https://gdcatalog.go.th/dataset/gdpublish-lpd04)
 - **Province/Region Reference:** ข้อมูล PCODE จังหวัดและภาค ใช้เป็นรหัสอ้างอิงมาตรฐาน  [HDX-TH admin boundaries](https://data.humdata.org/dataset/cod-ab-tha)
