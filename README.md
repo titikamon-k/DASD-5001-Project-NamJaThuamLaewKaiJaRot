@@ -51,41 +51,36 @@ ________________________________________________________________________________
 ต่อมาได้มีการเจาะลึกถึงระดับจังหวัด โดยสร้าง **Heatmap ปริมาณฝนเฉลี่ยรายเดือน** ของแต่ละจังหวัดพร้อมทั้งจัดอันดับ **Top 5 จังหวัดที่มีปริมาณฝนรวมสูงสุดในแต่ละภูมิภาค**  
 การวิเคราะห์นี้ช่วยให้เห็นภาพความแตกต่างของ **ความเสี่ยงด้านฝนและอุทกภัย** ในแต่ละพื้นที่ได้อย่างชัดเจนซึ่งเป็นข้อมูลสำคัญสำหรับการวางแผนและเฝ้าระวังน้ำท่วมในเชิงพื้นที่
 
-#### **Central Region (ภาคกลาง)**
-<img width="1492" height="841" alt="image" src="https://github.com/user-attachments/assets/38e296c3-df1a-4ada-b8c7-9e5f87a9e367" />
-<sub>Figure 2: Average Monthly Rainfall in the Central Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+#### **Central Region**
+<img width="1738" height="299" alt="image" src="https://github.com/user-attachments/assets/db022fbc-ffaf-4a9e-88ed-0b1f6a0293fe" />
 
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคกลาง**: นครนายก, กรุงเทพมหานคร, สมุทรปราการ, สมุทรสาคร และนนทบุรี  
+<sub>Table 2: Flood Risk Factors in the Central Region and Composite score by Provinces</sub><br><br>
 
-#### **East Region (ภาคตะวันออก)**
-<img width="1513" height="667" alt="image" src="https://github.com/user-attachments/assets/6e9b5a40-3bef-4f4f-aceb-bb4f349494e5" />
-<sub>Figure 3: Average Monthly Rainfall in the East Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+#### **East Region**
+<img width="1737" height="162" alt="image" src="https://github.com/user-attachments/assets/54efa003-52cc-4a90-8d49-6aa3bf7e3442" />
 
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออก**: ตราด, จันทบุรี, ปราจีนบุรี, ระยอง และฉะเชิงเทรา
+<sub>Table 3: Flood Risk Factors in the East Region and Composite score by Provinces</sub><br><br>
 
-#### **Northeast Region (ภาคตะวันออกเฉียงเหนือ)**
-<img width="1503" height="1131" alt="image" src="https://github.com/user-attachments/assets/6eee5315-1346-44f7-93a0-a54b3f8f53ee" />
-<sub>Figure 4: Average Monthly Rainfall in the Northeast Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+#### **Northeast Region**
+<img width="1735" height="411" alt="image" src="https://github.com/user-attachments/assets/5bb416e5-e15c-4b48-81c2-10ce25ca675a" />
 
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออกเฉียงเหนือ**: บึงกาฬ, นครพนม, หนองคาย, อุบลราชธานี และสกลนคร
+<sub>Table 4: Flood Risk Factors in the Northeast Region and Composite score by Provinces</sub><br><br>
 
-#### **North Region (ภาคเหนือ)**
-<img width="1513" height="1012" alt="image" src="https://github.com/user-attachments/assets/880d7aa0-9c39-4b37-b4bb-a179de8cce58" />
-<sub>Figure 5: Average Monthly Rainfall in the North Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+#### **North Region**
+<img width="1739" height="354" alt="image" src="https://github.com/user-attachments/assets/b4597c6b-647a-42c8-aa1f-16678c0acd37" />
 
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคเหนือ**: เชียงราย, น่าน, พะเยา, อุทัยธานี และตาก
+<sub>Table 5: Flood Risk Factors in the North Region and Composite score by Provinces</sub><br><br>
 
-#### **South Region (ภาคใต้)**
-<img width="1512" height="881" alt="image" src="https://github.com/user-attachments/assets/b5ffe279-dd0f-4935-a9f8-f9d9d98799f4" />
-<sub>Figure 6: Average Monthly Rainfall in the South Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+#### **South Region**
+<img width="1735" height="297" alt="image" src="https://github.com/user-attachments/assets/1626213f-df42-403d-a5c3-324906d578fc" />
 
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคใต้**: ระนอง, พังงา, นราธิวาส, ยะลา และภูเก็ต
+<sub>Table 6: Flood Risk Factors in the South Region and Composite score by Provinces</sub><br><br>
 
-#### **West Region (ภาคตะวันตก)**
-<img width="1510" height="704" alt="image" src="https://github.com/user-attachments/assets/0bcca114-ed95-4732-85d3-75265057cd7c" />
-<sub>Figure 7: Average Monthly Rainfall in the West Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
+#### **West Region**
+<img width="1733" height="120" alt="image" src="https://github.com/user-attachments/assets/3eee6628-d93f-450a-b54a-aa6384bfca6d" />
 
-**Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันตก**: ประจวบคีรีขันธ์, กาญจนบุรี, ราชบุรี, เพชรบุรี และสุพรรณบุรี
+<sub>Table 7: Flood Risk Factors in the West Region and Composite score by Provinces</sub><br><br>
+
 
 **Insight:**  
 - **จังหวัดต้นน้ำ** เช่น **เชียงใหม่, เชียงราย และอุบลราชธานี**  
