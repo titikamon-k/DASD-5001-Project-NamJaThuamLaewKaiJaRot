@@ -51,37 +51,37 @@ ________________________________________________________________________________
 ต่อมาได้มีการเจาะลึกถึงระดับจังหวัด โดยสร้าง **Heatmap ปริมาณฝนเฉลี่ยรายเดือน** ของแต่ละจังหวัดพร้อมทั้งจัดอันดับ **Top 5 จังหวัดที่มีปริมาณฝนรวมสูงสุดในแต่ละภูมิภาค**  
 การวิเคราะห์นี้ช่วยให้เห็นภาพความแตกต่างของ **ความเสี่ยงด้านฝนและอุทกภัย** ในแต่ละพื้นที่ได้อย่างชัดเจนซึ่งเป็นข้อมูลสำคัญสำหรับการวางแผนและเฝ้าระวังน้ำท่วมในเชิงพื้นที่
 
-#### **Central Region**
+#### **Central Region (ภาคกลาง)**
 <img width="1492" height="841" alt="image" src="https://github.com/user-attachments/assets/38e296c3-df1a-4ada-b8c7-9e5f87a9e367" />
 <sub>Figure 2: Average Monthly Rainfall in the Central Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคกลาง**: นครนายก, กรุงเทพมหานคร, สมุทรปราการ, สมุทรสาคร และนนทบุรี  
 
-#### **East Region**
+#### **East Region (ภาคตะวันออก)**
 <img width="1513" height="667" alt="image" src="https://github.com/user-attachments/assets/6e9b5a40-3bef-4f4f-aceb-bb4f349494e5" />
 <sub>Figure 3: Average Monthly Rainfall in the East Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออก**: ตราด, จันทบุรี, ปราจีนบุรี, ระยอง และฉะเชิงเทรา
 
-#### **Northeast Region**
+#### **Northeast Region (ภาคตะวันออกเฉียงเหนือ)**
 <img width="1503" height="1131" alt="image" src="https://github.com/user-attachments/assets/6eee5315-1346-44f7-93a0-a54b3f8f53ee" />
 <sub>Figure 4: Average Monthly Rainfall in the Northeast Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคตะวันออกเฉียงเหนือ**: บึงกาฬ, นครพนม, หนองคาย, อุบลราชธานี และสกลนคร
 
-#### **North Region**
+#### **North Region (ภาคเหนือ)**
 <img width="1513" height="1012" alt="image" src="https://github.com/user-attachments/assets/880d7aa0-9c39-4b37-b4bb-a179de8cce58" />
 <sub>Figure 5: Average Monthly Rainfall in the North Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคเหนือ**: เชียงราย, น่าน, พะเยา, อุทัยธานี และตาก
 
-#### **South Region**
+#### **South Region (ภาคใต้)**
 <img width="1512" height="881" alt="image" src="https://github.com/user-attachments/assets/b5ffe279-dd0f-4935-a9f8-f9d9d98799f4" />
 <sub>Figure 6: Average Monthly Rainfall in the South Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
 **Top 5 จังหวัดที่มีปริมาณฝนสูงสุดในภาคใต้**: ระนอง, พังงา, นราธิวาส, ยะลา และภูเก็ต
 
-#### **West Region**
+#### **West Region (ภาคตะวันตก)**
 <img width="1510" height="704" alt="image" src="https://github.com/user-attachments/assets/0bcca114-ed95-4732-85d3-75265057cd7c" />
 <sub>Figure 7: Average Monthly Rainfall in the West Region and Provinces with the Highest Rainfall(Heatmap)</sub><br><br>
 
@@ -102,27 +102,27 @@ ________________________________________________________________________________
 - **Recurrent Flood Area (10Y)** (30%)  
 - **Flood Susceptible Sites** (20%)  
 
-#### **Central Region**
+#### **Central Region (ภาคกลาง)**
 <img width="3595" height="285" alt="image" src="https://github.com/user-attachments/assets/f7ebb2ed-992d-40ee-ba37-88d410edbd52" />
 <sub>Table 2: Flood Risk Factors in the Central Region and Composite score by Provinces</sub><br><br>
 
-#### **East Region**
+#### **East Region (ภาคตะวันออก)**
 <img width="3599" height="209" alt="image" src="https://github.com/user-attachments/assets/540e17e4-01ee-4621-96d9-c109e24b13ee" />
 <sub>Table 3: Flood Risk Factors in the East Region and Composite score by Provinces</sub><br><br>
 
-#### **Northeast Region**
+#### **Northeast Region (ภาคตะวันออกเฉียงเหนือ)**
 <img width="3597" height="291" alt="image" src="https://github.com/user-attachments/assets/4788aeda-0788-47e6-84ea-a17aab688b1f" />
 <sub>Table 4: Flood Risk Factors in the Northeast Region and Composite score by Provinces</sub><br><br>
 
-#### **North Region**
+#### **North Region (ภาคเหนือ)**
 <img width="3591" height="289" alt="image" src="https://github.com/user-attachments/assets/59170c01-2b23-48ef-b977-d5fa485e13b3" />
 <sub>Table 5: Flood Risk Factors in the North Region and Composite score by Provinces</sub><br><br>
 
-#### **South Region**
+#### **South Region (ภาคใต้)**
 <img width="3595" height="288" alt="image" src="https://github.com/user-attachments/assets/679118a3-4868-4b18-a7b7-06bdc13ed755" />
 <sub>Table 6: Flood Risk Factors in the South Region and Composite score by Provinces</sub><br><br>
 
-#### **West Region**
+#### **West Region (ภาคตะวันตก)**
 <img width="3590" height="161" alt="image" src="https://github.com/user-attachments/assets/56441879-e8b2-41b7-8f5a-3131ed24c333" />
 <sub>Table 7: Flood Risk Factors in the West Region and Composite score by Provinces</sub><br><br>
 
