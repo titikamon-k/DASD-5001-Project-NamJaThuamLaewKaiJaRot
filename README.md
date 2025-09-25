@@ -160,7 +160,7 @@ ________________________________________________________________________________
 
 ### Step 4: Composite Vulnerability
 - จัดอันดับ Top 10 จังหวัดเสี่ยงน้ำท่วมที่คำนวณจากปัจจัยหลัก 3 ด้าน ได้แก่ ปริมาณฝน (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood) และพื้นที่น้ำหลาก (flood susceptible sites)
-<img width="1894" height="1500" alt="image" src="https://github.com/user-attachments/assets/331532d4-2d49-4aad-b044-fa38313c31f9" />
+<img width="1661" height="1310" alt="image" src="https://github.com/user-attachments/assets/037de914-8d88-44c6-81c4-0f8384eb7fea" />
 <sub>Figure 9: Top Provinces at Risk of Flooding Based on the Composite Score of Three Key Factors in Each Region</sub><br><br>
 
 จาก Figure 9 แสดงผลการวิเคราะห์จังหวัดที่มีความเสี่ยงน้ำท่วมสูงสุด 10 อันดับแรก โดยอ้างอิงจากค่า Composite Score ที่คำนวณจากปัจจัยหลัก 3 ด้าน ได้แก่ ปริมาณฝน (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood) และพื้นที่น้ำหลาก (Flood susceptible sites) ผลการวิเคราะห์ชี้ให้เห็นว่า ภาคเหนือและภาคตะวันออกเฉียงเหนือมีความเสี่ยงสูงจากปริมาณฝนโดยตรง ขณะที่ภาคกลางมีความเสี่ยงจากการมีพื้นที่น้ำท่วมซ้ำซากขนาดใหญ่ โดยเฉพาะในจังหวัดพระนครศรีอยุธยา สุพรรณบุรี และอ่างทอง ส่วนกรุงเทพมหานครและปริมณฑล แม้ไม่ได้มีปริมาณฝนสูงสุด แต่กลับมีความเสี่ยงจากจำนวนพื้นที่น้ำหลาก (Flood susceptible sites) ที่หนาแน่น ซึ่งสะท้อนถึงผลกระทบทางสังคมและเศรษฐกิจที่อาจเกิดขึ้นได้มากกว่าภูมิภาคอื่น
