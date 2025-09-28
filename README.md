@@ -122,7 +122,9 @@ ________________________________________________________________________________
 <sub>Table 7: Flood Risk Factors in the West Region and Composite score by Provinces</sub><br><br>
 
 จากนั้น ได้มีการจัดทำ Spider Chart เพื่อวิเคราะห์ว่าในแต่ละภูมิภาคมีปัจจัยใดที่เป็นปัจจัยหลักที่ส่งผลต่อความเสี่ยงน้ำท่วม โดยการเปรียบเทียบค่า **ปริมาณฝนเฉลี่ย (Rainfall), พื้นที่น้ำท่วมซ้ำซาก (Recurrent Flood)** และ **พื้นที่น้ำหลาก (Flood susceptible sites)** ผลลัพธ์ที่ได้ช่วยให้เห็นภาพชัดเจนว่าแต่ละภูมิภาคมีลักษณะความเสี่ยงที่แตกต่างกัน
-<img width="2199" height="1805" alt="image" src="https://github.com/user-attachments/assets/646c7669-7f46-4639-8f84-b436a932256a" />
+
+<img width="1834" height="1302" alt="image" src="https://github.com/user-attachments/assets/c4b9ebfa-1d2f-49d0-849c-235535a9686f" />
+
 
 <sub>Figure 8: Flood Risk Factors by Region(Spider chart)</sub><br><br>
 จาก Figure 8 พบว่า
